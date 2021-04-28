@@ -17,7 +17,7 @@ const Navbar = ({ toggle }) => {
         <>
           <Nav>
               <NavbarContainer>
-                  <NavLogo to='/'>Cimofest</NavLogo>
+                  <NavLogo to='/'>CimoBank</NavLogo>
                   <MobileIcon onClick={toggle}>
                     <FaBars/>
                   </MobileIcon>
