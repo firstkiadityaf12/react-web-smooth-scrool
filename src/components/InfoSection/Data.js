@@ -48,3 +48,20 @@ export const homeObjThree = {
     primary: false,
     darkText: true
 }
+
+export const homeObjFour = {
+    id: 'signup',
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
+    topLine: 'Secure Server',
+    headline: 'Protect data with face recognition',
+    description: 'Get everything set up and ready in under 10 minutes. All you need to do is add your information and you are ready to go.',
+    buttonLabel: 'Start Now',
+    imgStart: true,
+    img: require('../../images/gambar4.svg').default,
+    alt: 'Shopping',
+    dark: false,
+    primary: false,
+    darkText: true
+}
